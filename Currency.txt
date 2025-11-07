@@ -1,0 +1,39 @@
+Afghanistan#//#AFN#//#Afghan Afghani#//#71.500000
+Albania#//#ALL#//#Albanian Lek#//#94.500000
+Algeria#//#DZD#//#Algerian Dinar#//#134.500000
+Argentina#//#ARS#//#Argentine Peso#//#865.000000
+Australia#//#AUD#//#Australian Dollar#//#1.480000
+Brazil#//#BRL#//#Brazilian Real#//#5.050000
+Canada#//#CAD#//#Canadian Dollar#//#1.340000
+Switzerland#//#CHF#//#Swiss Franc#//#0.890000
+Chile#//#CLP#//#Chilean Peso#//#915.000000
+China#//#CNY#//#Chinese Yuan#//#7.250000
+Colombia#//#COP#//#Colombian Peso#//#3915.000000
+Czech Republic#//#CZK#//#Czech Koruna#//#22.700001
+Denmark#//#DKK#//#Danish Krone#//#6.670000
+Egypt#//#EGP#//#Egyptian Pound#//#47.500000
+Eurozone#//#EUR#//#Euro#//#0.910000
+United Kingdom#//#GBP#//#British Pound#//#0.790000
+Hong Kong#//#HKD#//#Hong Kong Dollar#//#7.810000
+Hungary#//#HUF#//#Hungarian Forint#//#355.000000
+India#//#INR#//#Indian Rupee#//#83.000000
+Japan#//#JPY#//#Japanese Yen#//#151.399994
+South Korea#//#KRW#//#South Korean Won#//#1325.000000
+Kuwait#//#KWD#//#Kuwaiti Dinar#//#0.310000
+Mexico#//#MXN#//#Mexican Peso#//#16.650000
+Malaysia#//#MYR#//#Malaysian Ringgit#//#4.740000
+Nigeria#//#NGN#//#Nigerian Naira#//#1300.000000
+Norway#//#NOK#//#Norwegian Krone#//#10.500000
+New Zealand#//#NZD#//#New Zealand Dollar#//#1.620000
+Philippines#//#PHP#//#Philippine Peso#//#56.400002
+Pakistan#//#PKR#//#Pakistani Rupee#//#278.000000
+Poland#//#PLN#//#Polish Złoty#//#3.960000
+Russia#//#RUB#//#Russian Ruble#//#92.000000
+Saudi Arabia#//#SAR#//#Saudi Riyal#//#3.750000
+Sweden#//#SEK#//#Swedish Krona#//#10.400000
+Singapore#//#SGD#//#Singapore Dollar#//#1.340000
+Thailand#//#THB#//#Thai Baht#//#35.799999
+Turkey#//#TRY#//#Turkish Lira#//#32.000000
+Taiwan#//#TWD#//#New Taiwan Dollar#//#31.799999
+South Africa#//#ZAR#//#South African Rand#//#18.700001
+United States of America#//#USD#//#American Dollar#//#1
